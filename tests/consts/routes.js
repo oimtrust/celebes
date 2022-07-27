@@ -4,6 +4,6 @@
 export const ROUTES = {
     login: "/",
     home: "/inventory.html",
-  };
+};
   
   
